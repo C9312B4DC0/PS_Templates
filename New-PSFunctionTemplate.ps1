@@ -18,7 +18,7 @@ function New-PSFunctionTemplate {
 
 .NOTES
     Version:        1.0
-    Author:         Jack Isenberg
+    Author:         C9312B4DC0
     File Name:      New-PSFunctionTemplate.ps1
     Credit:         ᶘ ᵒᴥᵒᶅ
     Company:        ISENSOFT
