@@ -22,7 +22,7 @@ function New-PSFunctionTemplate {
     File Name:      New-PSFunctionTemplate.ps1
     Credit:         ᶘ ᵒᴥᵒᶅ
     Company:        ISENSOFT
-    Creation Date:  
+    Creation Date:  (╬ಠ益ಠ)
     URL:            (ノಠ益ಠ)ノ彡┻━┻
 
 .EXAMPLE
